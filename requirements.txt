@@ -1,0 +1,10 @@
+fastapi
+uvicorn
+pydantic
+streamlit
+faster-whisper
+sentence-transformers
+faiss-cpu
+requests
+python-multipart
+pydub
